@@ -75,4 +75,6 @@ Regression Metrics
 4. Coefficient of Determination (R^2)
 5. Adjusted (R^2)
 6. Residual Sum of Squares (RSS)
+
+Derivation of the Closed-Form Solution for Simple Linear Regression
 </details>
