@@ -50,3 +50,29 @@ Machine Learning Challenges
   8. Testing
   9. Optimize
 </details>
+
+<details>
+<summary>Simple Linear Regression</summary>
+<br>
+  
+Simple Linear Regression
+
+- Introduction
+- Mathematical Representation
+- Objective
+- Closed-Form Solution
+- Non Closed-Form Solution (Gradient Descent)
+- Training the Model
+- Assumptions
+- Use Cases
+- Conclusion
+
+Regression Metrics
+
+1. Mean Squared Error (MSE)
+2. Root Mean Squared Error (RMSE)
+3. Mean Absolute Error (MAE)
+4. Coefficient of Determination (R^2)
+5. Adjusted (R^2)
+6. Residual Sum of Squares (RSS)
+</details>
