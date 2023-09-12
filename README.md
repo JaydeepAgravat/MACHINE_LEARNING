@@ -76,5 +76,20 @@ Regression Metrics
 5. Adjusted (R^2)
 6. Residual Sum of Squares (RSS)
 
-Derivation of the Closed-Form Solution for Simple Linear Regression
+- Derivation of the Closed-Form Solution for Simple Linear Regression
+</details>
+
+<details>
+<summary>Multiple Linear Regression</summary>
+<br>
+  
+Multiple Linear Regression
+
+- Introduction
+- The Multiple Linear Regression Equation
+- Advantages & Disadvantages of MLS
+- Is sklearn.linear_model.LinearRegression use this β = (XᵀX)⁻¹XᵀY
+- SVD-based approach to fit the linear regression model
+- Derivation of Multiple Linear Regression Coefficient Estimation Formula (Closed-Form Solution)
+
 </details>
