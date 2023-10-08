@@ -12,7 +12,6 @@ Machine Learning
 Artificial Intelligence vs Machine Learning vs Deep Learning
 - AI vs ML vs DL
 - Why Machine Learning When We Have Deep Learning
-- Example: Weather Prediction
 
 Types of Machine Learning
 - Based on Learning Style
