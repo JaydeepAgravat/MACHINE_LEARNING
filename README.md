@@ -97,18 +97,18 @@ Multiple Linear Regression
 <summary>Optimization</summary>
 <br>
   
-Function
-Multivariable Function
-Parameters
-ML models as Mathematical Function
-Parametric vs Non-parametric ML models
-Linear regression as a parametric ML model
-Loss Function
-How to select a good Loss Function
-Calculating parameters from a loss function
-Limitations and Challenges of OLS
-Convex Functions & Non-convex Functions
-Gradient Descent
-Common Challenges in Gradient Descent Optimization
+- Function
+- Multivariable Function
+- Parameters
+- ML models as Mathematical Function
+- Parametric vs Non-parametric ML models
+- Linear regression as a parametric ML model
+- Loss Function
+- How to select a good Loss Function
+- Calculating parameters from a loss function
+- Limitations and Challenges of OLS
+- Convex Functions & Non-convex Functions
+- Gradient Descent
+- Common Challenges in Gradient Descent Optimization
 
 </details>
