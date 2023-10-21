@@ -112,3 +112,31 @@ Multiple Linear Regression
 - Common Challenges in Gradient Descent Optimization
 
 </details>
+
+<details>
+<summary>Gradient Descent</summary>
+<br>
+  
+- Definition of gradient descent
+- Intuition behind gradient descent
+- Cost function for linear regression
+- Mathematical formulation of gradient descent
+- Effect of learning rate
+- Types of gradient descent
+
+</details>
+
+<details>
+<summary>Regression Analysis</summary>
+<br>
+
+- Regression Analysis
+- Why ML problems are a Statistical Inference Problems ?
+- Inference Vs Prediction & Why regression analysis is required ?
+- TSS, RSS and ESS
+- Degree of Freedom
+- F-statistic
+- T-statistic
+- Regression Results
+
+</details>
